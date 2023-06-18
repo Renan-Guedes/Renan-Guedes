@@ -1,4 +1,4 @@
-## Olá! Eu sou Renan Guedes 😄 <img align="center" alt="renanIA" src="https://cdn.discordapp.com/attachments/361605428116979714/1115086864106401872/Vana_-_Cyberpunk_2023-06-03-8_05_54PM_1.png" width="180"> Acadêmico de Ciência da Computação
+## Olá! Eu sou Renan Guedes 😄 <img align="center" alt="renanIA" src="https://cdn.discordapp.com/attachments/361605428116979714/1115086862856507464/Vana_-_Cyberpunk_2023-06-03-8_05_54PM_9.png" width="180"> Acadêmico de Ciência da Computação
 
 <a href="https://github.com/Renan-Guedes">
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Renan-Guedes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
