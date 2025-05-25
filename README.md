@@ -1,4 +1,4 @@
-# 👨‍💻 Renan Guedes
+# 👨🏽‍💻 Renan Guedes
 
 **`Desenvolvedor .NET | Back-end`**
 
@@ -70,6 +70,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AndreRuperto/Renan-Guedes/output/github-contribution-grid.svg" alt="Snake animation" />
-</div>
+<picture>
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Renan-Guedes/Renan-Guedes/output/github-contribution-grid.svg">
+</picture>
