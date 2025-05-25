@@ -70,6 +70,6 @@
 
 ---
 
-<picture>
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Renan-Guedes/Renan-Guedes/output/github-contribution-grid.svg">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Renan-Guedes/Renan-Guedes/output/github-contribution-grid.svg" alt="animation" />
+</div>
