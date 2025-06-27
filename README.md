@@ -28,8 +28,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|--------------|
-| **[GestorRelacional](https://github.com/Renan-Guedes/GestorRelacional)** | Sistema para gerenciar pessoas e seus relacionamentos, com estrutura de árvore genealógica ou organizacional. | ASP.NET MVC • Dapper • SQL Server • Repository Pattern • Arquitetura em Camadas |
-| **[ControleFinanceiro](https://github.com/Renan-Guedes/ControleFinanceiro)** | Sistema de controle financeiro pessoal, com gestão de categorias, contas e transações. | ASP.NET MVC • Entity Framework • SQL Server • Repository Pattern • Arquitetura em Camadas |
+| **[ControleFinanceiro](https://github.com/Renan-Guedes/ControleFinanceiro)** | Sistema de Controle Financeiro, com gestão de categorias, bancos e transações. | ASP.NET MVC • ASP.NET Identity • Entity Framework • SQL Server • Repository Pattern • Arquitetura em Camadas |
 
 ---
 
