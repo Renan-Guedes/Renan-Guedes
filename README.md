@@ -16,49 +16,18 @@
 
 ---
 
-## 🔗 Onde me encontrar
-
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/renancguedes/)
-<span>&nbsp;</span>
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:renanguedesrdg@gmail.com)
-
----
-
 ## 🚀 Projetos Relevantes
 
 | Projeto | Descrição | Tecnologias |
-|---------|-----------|--------------|
+|---------|-----------|-------------|
 | **[ControleFinanceiro](https://github.com/Renan-Guedes/ControleFinanceiro)** | Sistema de Controle Financeiro, com gestão de categorias, bancos e transações. | ASP.NET MVC • ASP.NET Identity • Entity Framework • SQL Server • Repository Pattern • Arquitetura em Camadas |
+| **[API-Usuarios-Angular](https://github.com/Renan-Guedes/API-Usuarios-Angular)** | API para cadastro e autenticação de usuários. |  |
 
 ---
 
-## 💻 Minhas Skills
+## 💻 Minhas Habilidades
 
-### 🧑‍💻 &nbsp;Linguagens & Frameworks
-![Linguagens e Frameworks](https://skillicons.dev/icons?i=cs,dotnet,html,css,js)
-
-### 💾 &nbsp;Banco de Dados
-<p align="left">
-  <img src="https://github.com/Renan-Guedes/Files/blob/main/tools/sql.png" alt="SQL Server" style="width: 50px; height: 50px;"/>
-  <span>&nbsp;</span>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />   
-</p>
-
-### 🛠️ &nbsp;Ferramentas & Tecnologias
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  <span>&nbsp;</span>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  <span>&nbsp;</span>
-  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
-  <span>&nbsp;</span>
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
-  <span>&nbsp;</span>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
-  <span>&nbsp;</span>
-  <img src="https://github.com/Renan-Guedes/Files/blob/main/tools/power_bi.png" alt="Power BI" style="width: 60px; height: 50px;"/>
-  <img src="https://github.com/Renan-Guedes/Files/blob/main/tools/excel.png" alt="Excel" style="width: 70px; height: 50px;"/>
-</p>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,js,sqlserver,mysql,git,github,azure,pbi,excel,html,css,bootstrap,wordpress&titles=true)
 
 ---
 
