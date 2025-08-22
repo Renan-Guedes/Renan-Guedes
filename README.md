@@ -20,7 +20,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| **[ControleFinanceiro](https://github.com/Renan-Guedes/ControleFinanceiro)** | Sistema de Controle Financeiro, com gestão de categorias, bancos e transações. | ASP.NET MVC • ASP.NET Identity • Entity Framework • SQL Server • Repository Pattern • Arquitetura em Camadas |
+| **[ControleFinanceiro](https://github.com/Renan-Guedes/ControleFinanceiro)** | Sistema de Controle Financeiro, com gestão de categorias, bancos e transações. | ASP.NET MVC • ASP.NET Identity • Entity Framework • MySQL • Repository Pattern • Arquitetura em Camadas |
 | **[API-Usuarios-Angular](https://github.com/Renan-Guedes/API-Usuarios-Angular)** | API para cadastro e autenticação de usuários. |  |
 
 ---
