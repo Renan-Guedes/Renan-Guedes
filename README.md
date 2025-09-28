@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Renan Guedes
 
-**`Desenvolvedor .NET | Back-end`**
+**`Desenvolvedor Back-end e Analista de BI`**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="60%" alt="Hello World em várias linguagens" />
@@ -10,25 +10,26 @@
 
 <img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="100"/>
 
-- 💻 Desenvolvedor Back-end especializado em **.NET e C#**  
-- 🎓 Graduando em **Ciência da Computação**  
-- 🔥 Apaixonado por desenvolvimento e análise de dados
+◉ Desenvolvedor Back-end e Analista de BI | Foco em Python, JavaScript, .NET, Dashboards e Automações
+
+◉ Graduando em Ciência da Computação
+
+◉ Atuo no desenvolvimento de sistemas web, APIs, automações e dashboards, ajudando empresas a ganhar eficiência e clareza nas decisões.
 
 ---
 
-## 🚀 Projetos Relevantes
+## Projetos Relevantes
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | **[ControleFinanceiro](https://github.com/Renan-Guedes/ControleFinanceiro)** | Sistema de Controle Financeiro, com gestão de categorias, bancos e transações. | ASP.NET MVC • Entity Framework • MySQL • Repository Pattern • Arquitetura em Camadas |
-| **[API de Usuários](https://github.com/Renan-Guedes/API-Usuarios-Angular)** | API para cadastro e autenticação de usuários. |
 | **[Setup](https://github.com/Renan-Guedes/Setup)** | Página Web de apresentação do meu setup com detalhes de valores investidos para demostrar domínio com HTML, CSS e JS | HTML • CSS • Javascript |
 
 ---
 
-## 💻 Minhas Habilidades
+## Minhas Habilidades
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,js,sqlserver,mysql,git,github,azure,pbi,excel,html,css,bootstrap,wordpress&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,js,cs,dotnet,sqlserver,mysql,git,github,azure,pbi,excel,html,css,bootstrap,wordpress&titles=true)
 
 ---
 
