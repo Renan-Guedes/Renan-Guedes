@@ -29,7 +29,7 @@
 
 ## 🛠️ Minhas Habilidades
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,selenium,sqlserver,mysql,pbi,excel,html,css,git,github,js,cs,dotnet,bootstrap,wordpress\&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,django,selenium,sqlserver,mysql,pbi,excel,html,css,git,github,js,cs,dotnet,bootstrap,wordpress\&titles=true)
 
 ---
 
