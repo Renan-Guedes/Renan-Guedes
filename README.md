@@ -1,6 +1,6 @@
 <h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Olá! Eu sou o Renan Guedes</h1>
 
-**`Desenvolvedor Back-end | Python | Django | Automações | SQL | BI`**
+**`Desenvolvedor Python | Django | .NET | Javascript | REST API | Automações | SQL, MySQL & Banco de Dados | BI & Análise de Dados`**
 
 ## 🧠 Sobre mim
 
