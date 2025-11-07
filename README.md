@@ -2,23 +2,24 @@
 
 **`Desenvolvedor Python | Django | .NET | Javascript | REST API | Automações | SQL, MySQL & Banco de Dados | BI & Análise de Dados`**
 
-## 🧠 Sobre mim
+## Sobre mim
 
 <img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="100"/>
 
-◉ Graduando em **Ciência da Computação** <br>
+◉ Desenvolvedor com quase 3 anos de experiência e na reta final da graduação em **Ciência da Computação** <br>
 ◉ Crio **sistemas web, APIs, automações e dashboards** para aumentar eficiência e clareza nos negócios <br>
 ◉ Posso fornecer soluções com **Power BI, Looker Studio, SQL, MySQL e Excel** para transformar dados em decisões estratégicas <br>
 ◉ Também possuo experiência com **.NET e Javascript**, usados como suporte em projetos específicos
 
 ---
 
-## 🚀 Projetos Relevantes
+## Projetos Relevantes
 
-| Projeto                                                                      | Descrição                                                                            | Tecnologias                                                     |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
-| **[ControleFinanceiro](https://github.com/Renan-Guedes/ControleFinanceiro)** | Sistema de Controle Financeiro, com gestão de categorias, bancos e transações.       | ASP.NET MVC • Entity Framework • MySQL • Arquitetura em Camadas |
-| **[Setup](https://github.com/Renan-Guedes/Setup)**                           | Página Web de apresentação do meu setup com detalhes de valores investidos.          | HTML • CSS • JavaScript                      
+| Projeto                                                                         | Descrição                                                                                           | Tecnologias                                                     |
+| ----------------------------------------------------------------------------    | ----------------------------------------------------------------------------------------------------| --------------------------------------------------------------  |
+| **[Controle de Estoque](https://github.com/Renan-Guedes/Controle_De_Estoque)**  | Controle de Estoque com autenticação de usuários, gerenciamento de produtos, categorias, limites e movimentações | Python • Django • Bootstrap                        |
+| **[Controle Financeiro](https://github.com/Renan-Guedes/ControleFinanceiro)**   | Sistema de Controle Financeiro, com gestão de categorias, bancos e transações.                      | ASP.NET MVC • Entity Framework • MySQL • Arquitetura em Camadas |
+| **[Setup](https://github.com/Renan-Guedes/Setup)**                              | Página Web interativa com o meu setup com detalhes de valores investidos.                           | HTML • CSS • JavaScript
 
 ---
 
