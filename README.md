@@ -17,9 +17,7 @@
 
 | Projeto                                                                         | Descrição                                                                                           | Tecnologias                                                     |
 | ----------------------------------------------------------------------------    | ----------------------------------------------------------------------------------------------------| --------------------------------------------------------------  |
-| **[Estoque](https://github.com/Renan-Guedes/Controle_De_Estoque)**  | Controle de Estoque com autenticação de usuários, gerenciamento de produtos, categorias, limites e movimentações | Python • Django • Bootstrap                        |
-| **[ControleFinanceiro](https://github.com/Renan-Guedes/ControleFinanceiro)**   | Sistema de Controle Financeiro, com gestão de categorias, bancos e transações.                      | ASP.NET MVC • Entity Framework • MySQL • Arquitetura em Camadas |
-| **[Setup](https://github.com/Renan-Guedes/Setup)**                              | Página Web interativa com o meu setup com detalhes de valores investidos.                           | HTML • CSS • JavaScript
+| **[Estoque](https://github.com/Renan-Guedes/Controle_De_Estoque)**  | Controle de Estoque com autenticação de usuários, gerenciamento de produtos, categorias, limites e movimentações | Python • Django • Bootstrap                        
 
 ---
 
